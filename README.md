@@ -1,6 +1,6 @@
-# React Native Expo App README
+# Weather App README
 
-Welcome to my React Native Expo app! This README.md file provides you with essential information on system requirements, installation, configuration, project creation, running the project, troubleshooting, and additional resources. Follow the steps below to set up and run the app successfully.
+Welcome to my Weather app! This README.md file provides you with essential information on system requirements, installation, configuration, project creation, running the project, troubleshooting, and additional resources. Follow the steps below to set up and run the app successfully.
 
 ## System Requirements
 
